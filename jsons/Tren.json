@@ -1,0 +1,9 @@
+var pasajeroX = {
+	"ID" 		: "TrenX" ,
+	"Ruta" 		: "Estacion Norte" ,
+	"PrecioBoleto" 	: 75.00 ,
+	"CantAsientos" 	: 300
+
+	"TipoCarga" 	: "Comercial",
+	"CantBagones" 	: 9
+}

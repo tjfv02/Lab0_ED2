@@ -1,0 +1,7 @@
+var pasajeroX = {
+	"ID" 		: "Transporte N" ,
+	"Ruta" 		: "Ruta X" ,
+	"PrecioBoleto" 	: 0.00 ,
+	"CantAsientos" 	: N
+
+}

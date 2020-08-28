@@ -1,0 +1,9 @@
+var pasajeroX = {
+	"ID" 		: "AvionX" ,
+	"Ruta" 		: "Europa" ,
+	"PrecioBoleto" 	: 200.00 ,
+	"CantAsientos" 	: 200
+
+	"TipoAvion" 	: "Comercial",
+	"Clase" 	: "Turista"
+}
